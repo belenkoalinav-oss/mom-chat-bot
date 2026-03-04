@@ -1,7 +1,6 @@
 {
   "name": "mom-chat-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for generating mom community posts",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
